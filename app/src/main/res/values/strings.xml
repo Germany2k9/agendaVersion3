@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="agenda_actividades">Agenda de Actividades</string>
+    <string name="crearNota">Nueva Nota</string>
+    <string name="acercaApp">Acerca De la App</string>
+    <string name="help">Help</string>
+
+    <string-array name="levels_array">
+        <item>Urgente</item>
+        <item>Important</item>
+        <item>Normal</item>
+
+    </string-array>
+    <string name="coger_fecha">Date: </string>
+    <string name="Cancel">Cancelar</string>
+    <string name="btncrearNota">Crear Nota</string>
+</resources>
